@@ -27,7 +27,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/taskly.git
+   git clone https://github.com/PARIDHI1703/taskly.git
    ```
 2. Open `index.html` in your browser.
 3. Start managing tasks efficiently!
@@ -54,7 +54,7 @@
 ## **Author**
 
 **Paridhi Shukla** – Developer
-GitHub: [https://github.com/yourusername](https://github.com/PARIDHI1703)
+GitHub: [https://github.com/PARIDHI1703](https://github.com/PARIDHI1703)
 
 ---
 
